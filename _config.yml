@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Alegeri Prezidentiale 2019 - Vreau sa votez
+title: Alegeri 2019
 email: adrian@bradu.eu
 description: "Website dedicat ...."
 baseurl: ""  # the subpath of your site, e.g. /blog
