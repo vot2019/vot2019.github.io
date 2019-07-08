@@ -32,7 +32,6 @@ google_fonts:
 navigation_pages:
   - posts.md
   - info.md
-  - about.md
   - contact.md
-  - detalii.md
+  - despre.md
   - utile.md
