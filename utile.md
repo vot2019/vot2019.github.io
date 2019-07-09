@@ -4,6 +4,15 @@ layout: about
 permalink: /recipes/
 collection: recipes
 entries_layout: grid
+author: AB
 ---
 
-Sample document listing for the collection `_recipes`.
+**Titlu pagina**
+Text aici ....
+*some other text*
+- wefe rfgtre
+- wfd wfh eigfu
+
+1. sdfdsf
+2. dsaf sdfgsadf
+3. asdf sf  sadiuf

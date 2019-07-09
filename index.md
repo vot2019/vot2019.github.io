@@ -7,11 +7,8 @@ image: /images/front.jpg
 actions:
   - label: "Learn More"
     icon: arrow-right  # references name of svg icon, see full list below
-    url: "http://url-goes-here.com"
-  - label: "Download"
-    icon: download  # references name of svg icon, see full list below
-    url: "http://url-goes-here.com"
+    url: "https://vot2019.github.io"
   - label: "Calendar"
     icon: calendar  # references name of svg icon, see full list below
-    url: "http://url-goes-here.com"
+    url: "https://vot2019.github.io"
 ---
