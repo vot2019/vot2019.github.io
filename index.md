@@ -5,7 +5,7 @@
 layout: home
 image: /images/front.jpg
 actions:
-  - label: "Learn More"
+  - label: "Learn More about alegeri"
     icon: arrow-right  # references name of svg icon, see full list below
     url: "https://vot2019.github.io"
   - label: "Calendar"
