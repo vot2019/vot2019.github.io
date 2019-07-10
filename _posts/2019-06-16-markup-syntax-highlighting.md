@@ -18,6 +18,8 @@ Post no 2. Syntax highlighting is a feature that displays source code, in differ
 
 ## GFM Code Blocks
 
+#italic#
+
 GitHub Flavored Markdown [fenced code blocks](https://help.github.com/articles/creating-and-highlighting-code-blocks/) are supported by default with Jekyll. You may need to update your `_config.yml` file to enable them if you're using an older version.
 
 ```yaml
